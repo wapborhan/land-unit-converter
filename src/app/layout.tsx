@@ -5,7 +5,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "ভূমি একক রূপান্তরকারী",
   description: "ভূমি একক রূপান্তরকারী",
-  // metadataBase: new URL("https://code.wapborhan.com/land-unit-converter"),
+  metadataBase: new URL("https://code.wapborhan.com/land-unit-converter"),
   generator: "Next.js",
   applicationName: "ভূমি একক রূপান্তরকারী",
   referrer: "origin-when-cross-origin",
