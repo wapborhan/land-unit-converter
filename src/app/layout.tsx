@@ -5,6 +5,20 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "ভূমি একক রূপান্তরকারী",
   description: "ভূমি একক রূপান্তরকারী",
+  // metadataBase: new URL("https://code.wapborhan.com/land-unit-converter"),
+  generator: "Next.js",
+  applicationName: "ভূমি একক রূপান্তরকারী",
+  referrer: "origin-when-cross-origin",
+  keywords: ["ভূমি", "একক", "রূপান্তরকারী"],
+  authors: [
+    { name: "Borhan Uddin" },
+    { name: "Borhan Uddin", url: "https://www.wapborhan.com" },
+  ],
+  creator: "Borhan Uddin",
+  publisher: "SR Dream Lab",
+  openGraph: {
+    images: "/og-image.jpg",
+  },
 };
 
 export default function RootLayout({
